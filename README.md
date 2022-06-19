@@ -1,9 +1,10 @@
-<h1 align="center">NLW Return - Impulse<br>
+<h1 align="center">FeedWidget<br>
 <img style="width: 50%" src="https://i.imgur.com/gdC5oVq.png"/>
 </h1>
 
-<h3 align="center">Rocketseat NLW - 8th Edition</h3>
-<h5 align="center">FeedWidget is a widget made in react in order to report a problem on the page</h5>
+<h3 align="center">Rocketseat NLW Impulse - 8th Edition</h3>
+<h5 align="center">FeedWidget is a widget made in React in order to report a problem on the webpage, made following schema available in figma 
+has a mobile and web version both connected in a backend API made in NodeJS.</h5>
 <h1 align="center"><img src="https://img.shields.io/badge/license-MIT-brightgreen"/></h1>
 
 ## Technologys
